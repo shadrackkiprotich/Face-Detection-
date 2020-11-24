@@ -1,0 +1,1 @@
+C:\Users\lenovo\Source\Repos\Face.Detection.Cognitive.Services.Vision\obj\Debug\Face.Vision.csprojAssemblyReference.cache
